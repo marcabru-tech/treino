@@ -6,6 +6,9 @@ boolean casado = true;
 boolean tem_filhos = true;
 boolean bens_materiais = true;
 boolean fumante = false;
+boolean motorista = true;
+boolean motociclista = false;
+boolean ciclista = false;
         System.out.println(casado);
         System.out.println(fumante);
 
