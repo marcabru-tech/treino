@@ -4,8 +4,10 @@ public class Main {
     public static void main(String[] args) {
 boolean casado = true;
 boolean tem_filhos = true;
-boolean bens = true;
+boolean bens_materiais = true;
+boolean fumante = false;
         System.out.println(casado);
+        System.out.println(fumante);
 
         }
     }
