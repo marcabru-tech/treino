@@ -3,8 +3,8 @@
 public class Main {
     public static void main(String[] args) {
 boolean casado = true;
-boolean tem_filhos = true;
-boolean bens_materiais = true;
+boolean filhos = true;
+boolean patrimonio = true;
 boolean fumante = false;
 boolean motorista = true;
 boolean motociclista = false;
